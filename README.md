@@ -18,6 +18,12 @@ A small flashcard app built using **PyQt5**.
 - Study mode: view questions and reveal answers
 
 
+##  Flashcards
+- Add an ai api to genertate flashcards
+- Create an exe file
+- Polish/update the UI using pyqt6
+
+
 ##  Installation
 
 Clone the repository:
