@@ -1,27 +1,22 @@
 # Flashcard Program
 
-A lightweight flashcard app built using **PyQt5**.
+A small flashcard app built using **PyQt5**.
 
----
 
 ##  User Authentication
 - Sign up, log in, and password validation (requires at least one capital letter)  
 - Credentials stored locally in a `users.json` file (persistent storage)
 
----
-
 ##  Deck Management
 - Create, delete, and organise decks and subdecks  
 - Decks stored in `decks.json`
 
----
 
 ##  Flashcards
 - Add, edit, and delete flashcards  
 - Browse flashcards in table view  
 - Study mode: view questions and reveal answers
 
----
 
 ##  Installation
 
