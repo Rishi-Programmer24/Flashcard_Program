@@ -1,6 +1,6 @@
 # Flashcard Program
 
-A small flashcard app built using **PyQt5**.
+A small flashcard app built using **PyQt5**, for my programming project in year 13.
 
 
 ##  User Authentication
